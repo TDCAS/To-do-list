@@ -1,4 +1,4 @@
-# Aplicação de Lista de Tarefas
+# Aplicação de Lista de Tarefas Versão 0.0.1
 
 
 ## Visão Geral
