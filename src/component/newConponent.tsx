@@ -85,15 +85,6 @@ export default class  NewConponent extends Component {
         <h1>Lista Diaria</h1>
         </header>
         <section>
-        <div>
-            <div>
-                <p>Adicionar Tarefa</p>
-            </div>
-            <div>
-                
-            </div>
-        </div>
-        
        
 
         <Form

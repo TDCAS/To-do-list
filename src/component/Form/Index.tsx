@@ -11,7 +11,7 @@ export default function Form({handleSubmit,handleChange,novaTarefa}:any) {
                 onChange={handleChange}
                 value={novaTarefa}
             />
-            <input type="text" />
+ 
 
             </div>
 
